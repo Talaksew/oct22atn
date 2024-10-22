@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/cot22atn/static/css/main.875cdfb5.css",
+    "main.js": "/cot22atn/static/js/main.c309de9a.js",
+    "index.html": "/cot22atn/index.html",
+    "main.875cdfb5.css.map": "/cot22atn/static/css/main.875cdfb5.css.map",
+    "main.c309de9a.js.map": "/cot22atn/static/js/main.c309de9a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.875cdfb5.css",
+    "static/js/main.c309de9a.js"
+  ]
+}
